@@ -105,7 +105,7 @@
     }
 
    
-    h2
+   
 
     {
         font-size: 40px;
@@ -126,7 +126,7 @@
                         letter-spacing: 6px;
     }
 
-    h2 span
+    
     {
     color: #33cc33;
     font-size: 45px;
@@ -138,7 +138,7 @@
                     6px 6px 6px #d1d9e6 ;    
     }
 
-    h2 .fa
+    
     {
         position: absolute; 
         top: 1.5em;
